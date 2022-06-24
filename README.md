@@ -193,7 +193,11 @@ https://testnets.opensea.io/collection/realestate-xuasqdqv52
 
 https://testnets.opensea.io/assets/rinkeby/0xec6321ef45b4ce8e067f673f5b61d543deacbf0c/4
 
+- ![opensea](Images/testnetsopensea4.png)
+
 https://testnets.opensea.io/assets/rinkeby/0xec6321ef45b4ce8e067f673f5b61d543deacbf0c/1
+
+- ![opensea](Images/testnetsopensea2.png)
 
 # Project Resources
 
