@@ -187,6 +187,11 @@ https://rinkeby.etherscan.io/address/0xec6321ef45b4ce8e067f673f5b61d543deacbf0c
 
 - ![Rinkeby Etherscan](Images/etherscan.png)
 
+## abi
+
+- [SolnSquareVerifier](eth-contracts/build/contracts/SolnSquareVerifier.json)
+- [Verifier](eth-contracts/build/contracts/Verifier.json)
+
 ## Opensea
 
 https://testnets.opensea.io/collection/realestate-xuasqdqv52
