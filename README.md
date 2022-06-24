@@ -9,7 +9,7 @@ cd eth-contract
 truffle test
 ```
 
-- [Test result](Images/truffle%20test.png)
+- ![Test result](Images/truffle%20test.png)
 
 # Deploy contract
 
@@ -185,7 +185,7 @@ Diptis-MBP:eth-contracts dipti$
 
 https://rinkeby.etherscan.io/address/0xec6321ef45b4ce8e067f673f5b61d543deacbf0c
 
-- [Rinkeby Etherscan](Images/etherscan.png)
+- ![Rinkeby Etherscan](Images/etherscan.png)
 
 ## Opensea
 
