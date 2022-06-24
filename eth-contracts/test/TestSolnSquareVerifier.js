@@ -51,11 +51,9 @@ contract("TestSolnSquareVerifier", async (accounts) => {
       from: accounts[0],
     })
 
-    let owner = await this.solnSquareVerifier.ownerOf(1)
-    console.log(owner)
-    console.log(verification)
+    //console.log(verification)
     let event = addedSolution.logs[0].event
-    console.log(event)
+    //console.log(event)
     assert.equal(event, "AddedSolution", "Solution not added.")
   })
 
@@ -76,11 +74,11 @@ contract("TestSolnSquareVerifier", async (accounts) => {
     let verification = await this.verifier.verifyTx.call(a, b, c, inputs, {
       from: accounts[0],
     })
-    console.log(verification)
+    //console.log(verification)
 
     let owner = await this.solnSquareVerifier.ownerOf(2)
-    console.log(owner + "owner")
-    console.log(accounts[2])
+    // console.log(owner + "owner")
+    // console.log(accounts[2])
     //console.log(mint)
     let event = mint.logs[1].event
     console.log(event)
